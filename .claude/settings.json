@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker update *)",
+      "Bash(docker stop *)",
+      "Bash(mkdir -p /home/aliy/Projects/I3M/7alen/Readmes)",
+      "Bash(npx prisma *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:3000/health)",
+      "Bash(npx ts-node *)",
+      "Bash(./node_modules/.bin/ts-node prisma/seed.ts)",
+      "Bash(node node_modules/.pnpm/ts-node@10.9.2_@types+node@20.19.42_typescript@5.9.3/node_modules/ts-node/dist/bin.js prisma/seed.ts)"
+    ],
+    "additionalDirectories": [
+      "/home/aliy/Projects/I3M/7alen"
+    ]
+  }
+}

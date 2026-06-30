@@ -1,0 +1,13 @@
+2026/06/30-21:56:15.345 3bc38 Reusing MANIFEST /home/aliy/projects/i3m/7alen/backend/.whatsapp-session/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/30-21:56:15.348 3bc38 Recovering log #90
+2026/06/30-21:56:15.693 3bc38 Reusing old log /home/aliy/projects/i3m/7alen/backend/.whatsapp-session/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000090.log 
+2026/06/30-21:56:24.416 3bc38 Level-0 table #96: started
+2026/06/30-21:56:24.564 3bc38 Level-0 table #96: 1369551 bytes OK
+2026/06/30-21:56:24.569 3bc38 Delete type=0 #90
+2026/06/30-21:56:24.762 3bc38 Compacting 1@1 + 4@2 files
+2026/06/30-21:56:25.387 3bc38 Generated table #97@1: 68358 keys, 2211774 bytes
+2026/06/30-21:56:25.628 3bc38 Generated table #98@1: 22567 keys, 2176033 bytes
+2026/06/30-21:56:25.798 3bc38 Generated table #99@1: 12553 keys, 2180872 bytes
+2026/06/30-21:56:25.853 3bc38 Generated table #100@1: 5861 keys, 355549 bytes
+2026/06/30-21:56:25.853 3bc38 Compacted 1@1 + 4@2 files => 6924228 bytes
+2026/06/30-21:56:25.857 3bc38 compacted to: files[ 0 0 4 0 0 0 0 ]

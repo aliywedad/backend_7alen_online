@@ -1,0 +1,5 @@
+
+
+
+execut the seed : npm run db:seed
+kill port : sudo kill -9 $(lsof -t -i:3000)
